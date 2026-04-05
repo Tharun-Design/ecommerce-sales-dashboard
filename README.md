@@ -336,9 +336,7 @@ ecommerce-sales-dashboard/
 |-- sales_dataset.xlsx               <- Raw dataset (128,949 rows)
 |-- Amazon_EDA_Final.ipynb           <- Python EDA and cleaning notebook
 |-- ecommerce_dashboard.pbix         <- Power BI dashboard file
-|
-|-- screenshots/
-     |-- dashboard_overview.png      <- Full dashboard screenshot
+|-- dashboard_overview.png      <- Full dashboard screenshot
 ```
 
 
@@ -351,4 +349,5 @@ AI and Data Science Enthusiast
 
 LinkedIn: https://www.linkedin.com/in/tharunkumarsrini/
 GitHub: https://github.com/Tharun-Design
+
 EOF
